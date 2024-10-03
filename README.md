@@ -35,6 +35,10 @@ The architecture of the neural network consists of:
 - **Mini-Batch Gradient Descent**: Instead of processing the entire dataset at once, training is done in smaller batches to improve convergence and reduce memory usage.
 - **Weight Initialization**: Weights are initialized using random values from a standard normal distribution to break symmetry.
 
+## Results:
+<img width="722" alt="image" src="https://github.com/user-attachments/assets/22487cee-50ce-4e7e-b099-02526031601c">
+
+
 ## How to Run
 
 1. Clone the repository:
